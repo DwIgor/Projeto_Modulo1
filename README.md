@@ -1,4 +1,4 @@
-# Projeto_Modulo1
+# Projeto_JINCAL_Modulo1
 Projeto JINCAL, baseado em Java e utilizando POO, dois programas unificados que calculam o IMC e a Taxa Metabólica do Usuário
 Sejam bem-vindos a apresentação do projeto do bloco 1 do grupo 3 formado por Ariela, Cássia, Igor, João, Larissa e Nicolas.O nome do nosso trabalho é JIncal, que é um programa composto por 2 calculadoras, uma de IMC e outra de taxa metabólica, ambas baseadas nas medidas peso e altura. 
 
